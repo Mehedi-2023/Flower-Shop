@@ -120,3 +120,39 @@ header{
     text-decoration: underline;
     text-align: center;
 }
+
+
+/*service styles*/
+.service{
+
+    width: 1440px;
+    height: 320px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 155px 240px 125px 240px;
+
+}
+
+.service-conteiner{
+    display: flex;
+    align-items: center;
+  
+
+}
+.serv-cont-description{
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 24px;
+    font-weight: 600;
+    margin: 0px 10px 85px 80px;
+    text-align: center;
+
+
+   
+  
+}
+.service-content img{
+    width: 88px;
+    height: 88px;
+    margin: 85px 180px 24px 220px;
+   
+}
