@@ -196,3 +196,40 @@ span{
 #btn-secondly{
     margin-left: 200px;
 }
+
+/*flower gallary styles*/
+
+.products-gallary{
+
+    width: 1440px;
+    height: 320px;
+    margin: 128px 240px;
+
+}
+.products-gallary-title{
+        color: #272727;
+        font-size: 24px;
+        font-weight: 700;
+        text-align: center;
+  
+}
+.products-gallary-description{
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400; 
+    text-align: center;
+    margin: 15px 400px ;
+}
+.flower-conteiner{
+
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+.flower-conteiner img{
+    width: 342px;
+    height: 396px;
+    border-radius: 8px;
+}
+
